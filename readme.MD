@@ -22,13 +22,20 @@ The aplication should provide following functionalities:
 ![alt text](./docs/buy.png)
 
 - Sell stock
-    - Create user interface
-    - Implement "Sell";
+    - Create user interface similar with Buy interface
+    - Symbol dropdown button should display only stocks owned by user;
+    - When sell is complete funds will automatically be increased with stock quantity * price;
 
 ![alt text](./docs/sell.png)
 
 For implementing user interface use **Netbeans 12.6** and **UI designer** facility. All user interface should be implemented in the provided **StockMarketJFrame** class. 
 
+### Implementation notes
+
+Note 1 - Stock symbols are hardcoded in StockMarketQueryService      private String[] symbols = new String[] {"INTC", "BABA", "TSLA", "AIR.PA", "MSFT", "AAPL"};     
+. You can add your own symbol as long as correspond to some real market symbols. 
+
+Note 2 - For understanding how table model is created and how query service is integrated with the user interface view last year course starting with minute 15:00 here -> https://bit.ly/35X9YhN 
 
 
 ## Exercise 2 (Optional)
