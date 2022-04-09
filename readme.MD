@@ -1,5 +1,7 @@
 # Lab 9
 
+**Acest laborator este destinat studentilor din Seria B Cluj-Napoca si Satu-Mare si difera la laboratorul 9 corespunzator seriei A!**
+
 ## Exercise 1 
 
 Implement a basic stock trade application starting from the example provided in package exercise 1.
