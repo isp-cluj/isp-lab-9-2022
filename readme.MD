@@ -44,4 +44,3 @@ Study MVC design pattern and how this can be implemented in Java. Here are some 
 - https://medium.com/@ssaurel/learn-to-make-a-mvc-application-with-swing-and-java-8-3cd24cf7cb10 
 - https://examples.javacodegeeks.com/core-java/java-swing-mvc-example/ 
 
-Use MVC pattern to add a user interface to program in exercise 2 where will be a button and a text field for each sensor type. When button is pressed value of the sensor is displayed in the text field.
