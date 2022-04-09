@@ -1,6 +1,6 @@
 # Lab 9
 
-**Acest laborator este destinat studentilor din Seria B Cluj-Napoca si Satu-Mare si difera la laboratorul 9 corespunzator seriei A!**
+**Acest laborator este destinat studentilor din Seria B Cluj-Napoca si Satu-Mare si difera de laboratorul 9 corespunzator seriei A!**
 
 ## Exercise 1 
 
