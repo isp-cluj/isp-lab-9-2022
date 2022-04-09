@@ -39,8 +39,14 @@ Note 1 - Stock symbols are hardcoded in StockMarketQueryService      private Str
 
 Note 2 - For understanding how table model is created and how query service is integrated with the user interface view last year course starting with minute 15:00 here -> https://bit.ly/35X9YhN 
 
+## Exercise 2
 
-## Exercise 2 (Optional)
+Create UML Class diagram and insert it bellow.
+
+----- UML CLASS DIAGRAM -------
+
+
+## Exercise 3 (Optional)
 
 Study MVC design pattern and how this can be implemented in Java. Here are some links presenting how MVC pattern can be implemented:
 - https://medium.com/@ssaurel/learn-to-make-a-mvc-application-with-swing-and-java-8-3cd24cf7cb10 
