@@ -34,8 +34,7 @@ For implementing user interface use **Netbeans 12.6** and **UI designer** facili
 
 ### Implementation notes
 
-Note 1 - Stock symbols are hardcoded in StockMarketQueryService      private String[] symbols = new String[] {"INTC", "BABA", "TSLA", "AIR.PA", "MSFT", "AAPL"};     
-. You can add your own symbol as long as correspond to some real market symbols. 
+Note 1 - Stock symbols are hardcoded in StockMarketQueryService      private String[] symbols = new String[] {"INTC", "BABA", "TSLA", "AIR.PA", "MSFT", "AAPL"}; You can add your own symbol as long as correspond to some real market symbols. 
 
 Note 2 - For understanding how table model is created and how query service is integrated with the user interface view last year course starting with minute 15:00 here -> https://bit.ly/35X9YhN 
 
