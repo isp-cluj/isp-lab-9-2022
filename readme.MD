@@ -39,6 +39,14 @@ Note 1 - Stock symbols are hardcoded in StockMarketQueryService      private Str
 
 Note 2 - For understanding how table model is created and how query service is integrated with the user interface view last year course starting with minute 15:00 here -> https://bit.ly/35X9YhN 
 
+Note 3 - For getting financial market information the application use https://financequotes-api.com/ library:
+
+        <dependency>
+            <groupId>com.yahoofinance-api</groupId>
+            <artifactId>YahooFinanceAPI</artifactId>
+            <version>3.15.0</version>
+        </dependency>
+
 ## Exercise 2
 
 Create UML Class diagram and insert it bellow.
